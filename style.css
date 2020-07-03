@@ -1,0 +1,26 @@
+.headerCal{
+    color: aqua;
+    background-color: black !important;
+    height: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.btn-info:not(.isEqualto){
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-color: aqua;
+     color: black;
+     font-size: 20px;
+     font-weight: bold;
+}
+.inputText{
+    font-weight: bold;
+    font-size: 25px;
+}
+.isEqualto{
+    color: aqua !important;
+    background-color: black !important;
+
+}
+
+
+
+
